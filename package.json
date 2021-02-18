@@ -36,8 +36,5 @@
   },
   "peerDependencies": {
     "esbuild": ">=0.7.0"
-  },
-  "engines": {
-    "node": ">=12"
   }
 }
