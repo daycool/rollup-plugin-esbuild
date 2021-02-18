@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-esbuild",
-  "version": "0.0.0-semantic-release",
+  "version": "2.6.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "EGOIST",
